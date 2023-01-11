@@ -8,3 +8,5 @@ The goal of this competition is to build a model that borrowers can use to help 
 ## URL : https://www.kaggle.com/competitions/GiveMeSomeCredit
 
 ## You can access the above model.ipynb
+
+![Screenshot](result_img.png)
